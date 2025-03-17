@@ -155,8 +155,9 @@ Counts the number of passengers booked on flight "ABB20".
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/AirlineDB.git
+   git clone https://github.com/Fatima2001-code/AirlineDB.git
    cd AirlineDB
+   
 
 ## **Conclusion**
 The AirlineDB project represents a significant advancement in flight management systems, leveraging MongoDB's flexibility and scalability to address modern aviation challenges. By providing a robust, secure, and efficient database solution, this project empowers airlines to enhance customer experiences, streamline operations, and drive financial performance.
