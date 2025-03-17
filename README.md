@@ -148,6 +148,7 @@ Displays passenger names, cities, and total payments made.
 
 ### **3. NumOfPassengersOn_ABB20**
 Counts the number of passengers booked on flight "ABB20".
+![MongoDB Queries](images/image.png)
 
 ---
 
