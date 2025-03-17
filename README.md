@@ -1,11 +1,15 @@
 # AirlineDB
-A Comprehensive MongoDB-Based Flight Management System
-![MongoDB Logo](images/Mongodb-Icon.png)
-## **Introduction**
+A Comprehensive **MongoDB**-Based Flight Management System
+
+<img src="images/logo.png" alt="MongoDB Logo" width="400"/>
+
+### **Introduction**
 
 In the rapidly growing world of data, where information flows at unprecedented speeds, there is a critical need for robust tools to organize, analyze, and extract knowledge. This is where **MongoDB**, a flexible and scalable document-based database system, comes into play, offering innovative solutions for managing complex datasets.
 
 This project, **AirlineDB**, aims to explore the capabilities of MongoDB in building a flight management application designed to simplify trip planning and organization for travelers, whether individuals or groups. The goal is to meet the diverse needs of travelers by providing an easy-to-use database and advanced features.
+
+<img src="images/mondosh.png" alt="MongoDB Logo" width="600"/>
 
 ### **Challenges Addressed**
 - **Information Overload:** The abundance of online information makes it difficult for travelers to find accurate and reliable details about destinations, transportation options, accommodations, and activities.
@@ -17,6 +21,7 @@ We will use **MongoDB (Compass & Shell)** to create a robust and scalable databa
 ---
 
 ## **Database Design**
+<img src="images/db.png" alt="MongoDB Logo" width="500"/>
 
 To ensure efficiency and performance, the **AirlineDB** database has been designed with the following eight collections:
 
@@ -148,7 +153,7 @@ Displays passenger names, cities, and total payments made.
 
 ### **3. NumOfPassengersOn_ABB20**
 Counts the number of passengers booked on flight "ABB20".
-![MongoDB Queries](images/image.png)
+<img src="images/image.png" alt="MongoDB Logo" width="600"/>
 
 ---
 
