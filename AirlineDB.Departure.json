@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "665b335bae77583ec6c712cb"
+  },
+  "FlightID": "TK1234",
+  "CaptainID": "638f7ebd562a273b5636d13a",
+  "DepartureHour": "10:30",
+  "ArrivalHours": "12:45",
+  "Note": "رحلة مباشرة",
+  "PlaneID": "638f7ebd562a273b5636d13b",
+  "departureId": "ABB20"
+},
+{
+  "_id": {
+    "$oid": "665b335bae77583ec6c712cc"
+  },
+  "FlightID": "EK5678",
+  "CaptainID": "638f7ebd562a273b5636d13c",
+  "DepartureHour": "14:00",
+  "ArrivalHours": "18:30",
+  "Note": "رحلة مع توقف في دبي",
+  "PlaneID": "638f7ebd562a273b5636d13d",
+  "departureId": "ACC41"
+},
+{
+  "_id": {
+    "$oid": "665b335bae77583ec6c712cd"
+  },
+  "FlightID": "QR9012",
+  "CaptainID": "638f7ebd562a273b5636d13e",
+  "DepartureHour": "08:15",
+  "ArrivalHours": "10:45",
+  "Note": "رحلة قصيرة",
+  "PlaneID": "638f7ebd562a273b5636d13f",
+  "departureId": "BCC30"
+},
+{
+  "_id": {
+    "$oid": "665b335bae77583ec6c712ce"
+  },
+  "FlightID": "EY3456",
+  "CaptainID": "638f7ebd562a273b5636d140",
+  "DepartureHour": "20:00",
+  "ArrivalHours": "06:30",
+  "Note": "رحلة ليلية",
+  "PlaneID": "638f7ebd562a273b5636d141",
+  "departureId": "ABC50"
+}]

@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "665b1f37ae77583ec6c71297"
+  },
+  "departureId": "ABB20",
+  "price": 150,
+  "discount": 0,
+  "done": true,
+  "note": "رحلة ذهاب",
+  "PassengerID": {
+    "$oid": "638f7ebd562a273b5636d12d"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b1f37ae77583ec6c71298"
+  },
+  "departureId": "ACC41",
+  "price": 170,
+  "discount": 10,
+  "done": true,
+  "note": "رحلة عودة",
+  "PassengerID": {
+    "$oid": "638f7ebd562a273b5636d12e"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b1f72ae77583ec6c7129a"
+  },
+  "departureId": "BCC30",
+  "price": 200,
+  "discount": 5,
+  "done": true,
+  "note": "رحلة ذهاب وعودة",
+  "PassengerID": {
+    "$oid": "638f7ebd562a273b5636d133"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b1f92ae77583ec6c7129c"
+  },
+  "departureId": "ABC50",
+  "price": 120,
+  "discount": 15,
+  "done": false,
+  "note": "رحلة منفردة",
+  "PassengerID": {
+    "$oid": "638f7ebd562a273b5636d134"
+  }
+},
+{
+  "_id": {
+    "$oid": "665fc144d1b33a059af1f16b"
+  },
+  "departureId": "ABB20",
+  "price": 150,
+  "discount": 0,
+  "done": true,
+  "note": "رحلة ذهاب",
+  "PassengerID": {
+    "$oid": "638f7ebd562a273b5636f56d"
+  }
+}]

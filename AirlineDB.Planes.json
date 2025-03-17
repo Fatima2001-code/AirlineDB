@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "665b3106ae77583ec6c712c4"
+  },
+  "planTypeId": {
+    "$oid": "638f7ebd562a273b5636d12f"
+  },
+  "planeName": "Plane1",
+  "planeStartDate": {
+    "$date": "2020-01-01T00:00:00.000Z"
+  },
+  "note": "طائرة ذات نطاق واسع مناسبة للرحلات الطويلة.",
+  "citeId": {
+    "$oid": "638f7ebd562a273b5636d13e"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b3106ae77583ec6c712c5"
+  },
+  "planTypeId": {
+    "$oid": "638f7ebd562a273b5636d130"
+  },
+  "planeName": "Plane2",
+  "planeStartDate": {
+    "$date": "2021-01-01T00:00:00.000Z"
+  },
+  "note": "طائرة اقتصادية في استهلاك الوقود.",
+  "citeId": {
+    "$oid": "638f7ebd562a273b5636d145"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b3106ae77583ec6c712c6"
+  },
+  "planTypeId": {
+    "$oid": "638f7ebd562a273b5636d13a"
+  },
+  "planeName": "Plane3",
+  "planeStartDate": {
+    "$date": "2022-01-01T00:00:00.000Z"
+  },
+  "note": "طائرة حديثة مجهزة بأحدث التقنيات.",
+  "citeId": {
+    "$oid": "638f7ebd562a273b5636d13f"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b31bcae77583ec6c712c8"
+  },
+  "planTypeId": {
+    "$oid": "638f7ebd562a273b5636d13b"
+  },
+  "planeName": "Plane4",
+  "planeStartDate": {
+    "$date": "2023-01-01T00:00:00.000Z"
+  },
+  "note": "طائرة ذات نطاق ضيق مناسبة للرحلات القصيرة والمتوسطة",
+  "citeId": {
+    "$oid": "638f7ebd562a273b5636d140"
+  }
+}]

@@ -1,0 +1,10 @@
+[
+  {
+    $match: {
+      departureId: "ABB20"
+    }
+  },
+  {
+    $count: "passengers"
+  }
+]

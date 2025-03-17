@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "665b2ad1ae77583ec6c712b6"
+  },
+  "captainName": "Fatima Gassan Hamdan",
+  "planeType": [
+    {
+      "planeTypeName": "Airbus A320"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665b2ad1ae77583ec6c712b7"
+  },
+  "captainName": "Alaiham Mohammad Anas Kftaro ",
+  "planeType": [
+    {
+      "planeTypeName": "Boeing 737"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665b2ad1ae77583ec6c712b8"
+  },
+  "captainName": "Anas Tarek Mourad ",
+  "planeType": [
+    {
+      "planeTypeName": "Airbus A380"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665b2ad1ae77583ec6c712b9"
+  },
+  "captainName": "Kinda Mansour",
+  "planeType": [
+    {
+      "planeTypeName": "Boeing 787"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "666bb00453305fc0c22e1aec"
+  },
+  "captainName": "Elias asad Wohbe",
+  "planeType": []
+}]

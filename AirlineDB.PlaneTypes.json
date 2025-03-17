@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "665b2eb0ae77583ec6c712bd"
+  },
+  "planeTypeName": "Airbus A320",
+  "brand": "Airbus",
+  "capacity": 180,
+  "weight": 77.5,
+  "length": 37.57,
+  "nbHoursMaintenance": 6000,
+  "note": "",
+  "planeTypeId": {
+    "$oid": "666a6022600f9239aef90bf7"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b2eb0ae77583ec6c712be"
+  },
+  "planeTypeName": "Boeing 737",
+  "brand": "Boeing",
+  "capacity": 189,
+  "weight": 82.7,
+  "length": 37.98,
+  "nbHoursMaintenance": 7500,
+  "note": "",
+  "planeTypeId": {
+    "$oid": "638f7ebd562a273b5636d13b"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b2eb0ae77583ec6c712bf"
+  },
+  "planeTypeName": "Airbus A380",
+  "brand": "Airbus",
+  "capacity": 525,
+  "weight": 560,
+  "length": 79.8,
+  "nbHoursMaintenance": 12000,
+  "note": "",
+  "planeTypeId": {
+    "$oid": "638f7ebd562a273b5636d13c"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b2eb0ae77583ec6c712c0"
+  },
+  "planeTypeName": "Boeing 787",
+  "brand": "Boeing",
+  "capacity": 290,
+  "weight": 225,
+  "length": 68.7,
+  "nbHoursMaintenance": 9000,
+  "note": "",
+  "planeTypeId": {
+    "$oid": "638f7ebd562a273b5636d13d"
+  }
+}]

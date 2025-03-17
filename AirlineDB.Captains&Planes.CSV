@@ -1,0 +1,16 @@
+[
+  {
+    $lookup: {
+      from: "PlaneTypes",
+      localField: "planeTypeId",
+      foreignField: "planeTypeId",
+      as: "planeType"
+    }
+  },
+  {
+    $project: {
+      captainName: 1,
+      "planeType.planeTypeName": 1
+    }
+  }
+]

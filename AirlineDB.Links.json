@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "665b2280ae77583ec6c712aa"
+  },
+  "linkId": {
+    "$oid": "638f7ebd562a273b5636d12b"
+  },
+  "departureCity": "Istanbul",
+  "arrivalCity": "Cairo",
+  "notes": "رحلة مع توقف في القاهرة"
+},
+{
+  "_id": {
+    "$oid": "665b22c0ae77583ec6c712ab"
+  },
+  "linkId": {
+    "$oid": "776f7ebd562a273b4176d55b"
+  },
+  "departureCity": "Dubai",
+  "arrivalCity": "London",
+  "notes": "رحلة ذهاب وعودة"
+},
+{
+  "_id": {
+    "$oid": "665b2302ae77583ec6c712ad"
+  },
+  "linkId": {
+    "$oid": "638f7ebd562a273b5636d12c"
+  },
+  "departureCity": "Dubai",
+  "arrivalCity": "London",
+  "notes": "رحلة مباشرة"
+},
+{
+  "_id": {
+    "$oid": "665b232fae77583ec6c712af"
+  },
+  "linkId": {
+    "$oid": "638f7ebd562a273b5636d12d"
+  },
+  "departureCity": "Paris",
+  "arrivalCity": "New York",
+  "notes": "رحلة ذهاب وعودة"
+},
+{
+  "_id": {
+    "$oid": "665b2366ae77583ec6c712b1"
+  },
+  "linkId": {
+    "$oid": "665b241aae77583ec6c712b2"
+  },
+  "departureCity": "Tokyo",
+  "arrivalCity": "Sydney",
+  "notes": "رحلة مع توقف في هونج كونج"
+}]

@@ -1,0 +1,115 @@
+[{
+  "_id": {
+    "$oid": "665b2ad1ae77583ec6c712b6"
+  },
+  "captainName": "Fatima Gassan Hamdan",
+  "captainBirthDate": {
+    "$date": "2000-02-02T00:00:00.000Z"
+  },
+  "captainGender": "Female",
+  "captainStartDate": {
+    "$date": "2021-03-03T00:00:00.000Z"
+  },
+  "lastMedicalExamDate": {
+    "$date": "2024-04-04T00:00:00.000Z"
+  },
+  "note": "",
+  "cityId": {
+    "$oid": "638f7ebd562a273b5636d135"
+  },
+  "planeTypeId": {
+    "$oid": "666a6022600f9239aef90bf7"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b2ad1ae77583ec6c712b7"
+  },
+  "captainName": "Alaiham Mohammad Anas Kftaro ",
+  "captainBirthDate": {
+    "$date": "1980-01-01T00:00:00.000Z"
+  },
+  "captainGender": "Male",
+  "captainStartDate": {
+    "$date": "2010-01-01T00:00:00.000Z"
+  },
+  "lastMedicalExamDate": {
+    "$date": "2024-05-30T00:00:00.000Z"
+  },
+  "note": "",
+  "cityId": {
+    "$oid": "666a60d5600f9239aef90bfd"
+  },
+  "planeTypeId": {
+    "$oid": "638f7ebd562a273b5636d13b"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b2ad1ae77583ec6c712b8"
+  },
+  "captainName": "Anas Tarek Mourad ",
+  "captainBirthDate": {
+    "$date": "1990-03-04T00:00:00.000Z"
+  },
+  "captainGender": "Male",
+  "captainStartDate": {
+    "$date": "2015-04-05T00:00:00.000Z"
+  },
+  "lastMedicalExamDate": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  },
+  "note": "",
+  "cityId": {
+    "$oid": "638f7ebd562a273b5636d136"
+  },
+  "planeTypeId": {
+    "$oid": "638f7ebd562a273b5636d13c"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b2ad1ae77583ec6c712b9"
+  },
+  "captainName": "Kinda Mansour",
+  "captainBirthDate": {
+    "$date": "1997-05-22T00:00:00.000Z"
+  },
+  "captainGender": "Female",
+  "captainStartDate": {
+    "$date": "2018-05-07T00:00:00.000Z"
+  },
+  "lastMedicalExamDate": {
+    "$date": "2024-06-06T00:00:00.000Z"
+  },
+  "note": "",
+  "cityId": {
+    "$oid": "638f7ebd562a273b5636d137"
+  },
+  "planeTypeId": {
+    "$oid": "638f7ebd562a273b5636d13d"
+  }
+},
+{
+  "_id": {
+    "$oid": "666bb00453305fc0c22e1aec"
+  },
+  "captainName": "Elias asad Wohbe",
+  "captainBirthDate": {
+    "$date": "2000-05-08T00:00:00.000Z"
+  },
+  "captainGender": "Male",
+  "captainStartDate": {
+    "$date": "2021-06-09T00:00:00.000Z"
+  },
+  "lastMedicalExamDate": {
+    "$date": "2024-07-07T00:00:00.000Z"
+  },
+  "note": "",
+  "cityId": {
+    "$oid": "638f7ebd562a273b5636d138"
+  },
+  "planeTypeId": {
+    "$oid": "666a61ba600f9239aef90c07"
+  }
+}]

@@ -1,0 +1,35 @@
+[
+  {
+    $lookup: {
+      from: "Passengers",
+      localField: "PassengerID",
+      foreignField: "PassengerID",
+      as: "Name"
+    }
+  },
+  {
+    $lookup: {
+      from: "Passengers",
+      localField: "PassengerID",
+      foreignField: "PassengerID",
+      as: "City"
+    }
+  },
+  {
+    $lookup: {
+      from: "Reservations",
+      localField: "PassengerID",
+      foreignField: "_id",
+      as: "TotalPaid"
+    }
+  },
+  {
+    $project: {
+      "City.passengerAddress": 1,
+      "Name.passengerName": 1,
+      TotalPaid: {
+        $sum: "$price"
+      }
+    }
+  }
+]

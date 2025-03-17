@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "665b5bedae77583ec6c712d3"
+  },
+  "PassengerID": {
+    "$oid": "638f7ebd562a273b5636d12d"
+  },
+  "passengerName": "Fatima Gassan Hamdan",
+  "passengerAddress": "شارع الشيخ زايد، دبي، الإمارات العربية المتحدة",
+  "CityID": {
+    "$oid": "666b87b353305fc0c22e1acf"
+  },
+  "passengerBirthDate": {
+    "$date": "2000-02-02T00:00:00.000Z"
+  },
+  "Note": "يحمل جواز سفر اماراتي"
+},
+{
+  "_id": {
+    "$oid": "665b5bedae77583ec6c712d4"
+  },
+  "PassengerID": {
+    "$oid": "638f7ebd562a273b5636d12e"
+  },
+  "passengerName": "Elias asad Wohbe",
+  "passengerAddress": "شارع النيل، القاهرة، مصر",
+  "CityID": {
+    "$oid": "638f7ebd562a273b5636d143"
+  },
+  "passengerBirthDate": {
+    "$date": "1985-02-02T00:00:00.000Z"
+  },
+  "Note": "تحمل جواز سفر مصري"
+},
+{
+  "_id": {
+    "$oid": "665b5bedae77583ec6c712d5"
+  },
+  "PassengerID": {
+    "$oid": "638f7ebd562a273b5636d133"
+  },
+  "passengerName": "Anas Tarek Mourad ",
+  "passengerAddress": "شارع الملك عبد العزيز، الرياض، المملكة العربية السعودية",
+  "CityID": {
+    "$oid": "638f7ebd562a273b5636d144"
+  },
+  "passengerBirthDate": {
+    "$date": "1990-03-04T00:00:00.000Z"
+  },
+  "Note": "يسافر مع طفل صغير"
+},
+{
+  "_id": {
+    "$oid": "665b5bedae77583ec6c712d6"
+  },
+  "PassengerID": {
+    "$oid": "638f7ebd562a273b5636d134"
+  },
+  "passengerName": "Hala Ahmed",
+  "passengerAddress": "شارع محمد الخامس، الدار البيضاء، المغرب",
+  "CityID": {
+    "$oid": "638f7ebd562a273b5636d145"
+  },
+  "passengerBirthDate": {
+    "$date": "1995-04-06T00:00:00.000Z"
+  },
+  "Note": "عضو في برنامج المسافرين الدائمين"
+},
+{
+  "_id": {
+    "$oid": "665b5bedae77583ec6c712d7"
+  },
+  "PassengerID": {
+    "$oid": "638f7ebd562a273b5636f56d"
+  },
+  "passengerName": "Alaiham Mohammad Anas Kftaro ",
+  "passengerAddress": "شارع الحبيب بورقيبة، تونس، تونس",
+  "CityID": {
+    "$oid": "665b5d08ae77583ec6c712d8"
+  },
+  "passengerBirthDate": {
+    "$date": "2000-05-08T00:00:00.000Z"
+  },
+  "Note": "يسافر لأول مرة"
+}]

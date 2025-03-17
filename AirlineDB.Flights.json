@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "665b0ff5ae77583ec6c7128e"
+  },
+  "flightCode": "TK1234",
+  "departureHour": {
+    "$date": "2024-06-01T10:00:00.000Z"
+  },
+  "arrivalHour": {
+    "$date": "2024-06-01T12:00:00.000Z"
+  },
+  "flightDay": {
+    "$date": "2024-06-01T00:00:00.000Z"
+  },
+  "price": 150,
+  "linkId": {
+    "$oid": "638f7ebd562a273b5636d12b"
+  },
+  "note": "رحلة من إسطنبول إلى القاهرة"
+},
+{
+  "_id": {
+    "$oid": "665b0ff5ae77583ec6c7128f"
+  },
+  "flightCode": "EK5678",
+  "departureHour": {
+    "$date": "2024-06-02T16:00:00.000Z"
+  },
+  "arrivalHour": {
+    "$date": "2024-06-02T20:00:00.000Z"
+  },
+  "flightDay": {
+    "$date": "2024-06-02T00:00:00.000Z"
+  },
+  "price": 200,
+  "linkId": {
+    "$oid": "638f7ebd562a273b5636d36c"
+  },
+  "note": "رحلة من دبي إلى لندن"
+},
+{
+  "_id": {
+    "$oid": "665b1465ae77583ec6c71292"
+  },
+  "flightCode": "CK4897",
+  "departureHour": {
+    "$date": "2024-06-04T14:00:00.000Z"
+  },
+  "arrivalHour": {
+    "$date": "2024-06-04T18:00:00.000Z"
+  },
+  "flightDay": {
+    "$date": "2024-06-04T00:00:00.000Z"
+  },
+  "price": 320,
+  "linkId": {
+    "$oid": "456f7ebd888a298b2336d97c"
+  },
+  "note": "رحلة من بيروت إلى واشنطن"
+},
+{
+  "_id": {
+    "$oid": "665b1c4eae77583ec6c71293"
+  },
+  "flightCode": "EK5678",
+  "departureHour": {
+    "$date": "2024-06-05T18:00:00.000Z"
+  },
+  "arrivalHour": {
+    "$date": "2024-06-05T20:00:00.000Z"
+  },
+  "flightDay": {
+    "$date": "2024-06-05T00:00:00.000Z"
+  },
+  "price": 130,
+  "linkId": {
+    "$oid": "596f7ebd562a273b8961d65b"
+  },
+  "note": "رحلة من دمشق إلى موسكو"
+}]
