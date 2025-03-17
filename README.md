@@ -1,6 +1,6 @@
 # AirlineDB
 A Comprehensive MongoDB-Based Flight Management System
-![Alt Text](images/Mongodb-Icon.png)
+![MongoDB Logo](images/Mongodb-Icon.png)
 ## **Introduction**
 
 In the rapidly growing world of data, where information flows at unprecedented speeds, there is a critical need for robust tools to organize, analyze, and extract knowledge. This is where **MongoDB**, a flexible and scalable document-based database system, comes into play, offering innovative solutions for managing complex datasets.
